@@ -7,4 +7,3 @@ sumation = 0
 for i in range(length):
  sumation = sumation + list0[i]
 print(sumation)
-print (sum(list0))
