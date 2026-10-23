@@ -1,4 +1,4 @@
-Remove duplicates from a list**
+# Remove duplicates from a list**
 list1= [2,2,4,6,45,45,75,884,78,52,52,51,51]
 put = []
 for i in range (len(list1)):

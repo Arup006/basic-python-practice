@@ -59,7 +59,7 @@ Your target areas are covered heavily, and **Bubble Sort**, **comparison count**
 6. **Find the second largest distinct number** in a list.
 7. **Find the second smallest distinct number** in a list.
 8. **Remove duplicates from a list** while keeping the original order.
-9. Given numbers from `1` to `n` with one number missing, **find the missing number**.
+9. Given numbers from `1` to `n` with one number missing, **find the missing number**.   
 10. Perform a **linear search** and return the index of a target value; return `-1` when it is absent.
 11. **Implement Bubble Sort** in ascending order without using `sort()` or `sorted()`.
 12. In **Bubble Sort, count the total number of comparisons and swaps** made for a given list.
